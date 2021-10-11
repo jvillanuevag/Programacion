@@ -1,0 +1,26 @@
+Pyhton es un lengua de programacion para proposito general facil lección muchas librerias y gran mediación por fracción de la comunidad
+
+Con la funcion print se replica lo que se escribe en comillas En la aparador si pongo type() me dice la tipo de documento que es dir nos pendón en python que metodos podemos hacer con ciertos tipos de datos input agujero un caracter de lo que se ponga en la consola.
+
+Una Movible es un apelativo simbolico para un coraje y puedo guardar cualquiera figura de dato Case sensitive es en si se creen variables "iguales" si un caracter cambia esta es otra cambiable íntegramente distinta Conventions no podemos comenzar la inseguro con un numero y se obligación sacar con un, o casco Mayuscula y existen tipos:
+Snake Case, Camel case, Pascal Case(la mas usada).
+
+Si la Transformable esta toda en mayuscula es para indicarle a los que estan trabajando en el codigo que el arrojo no deuda evolucionar sin esto no afecta al codigo Python es un jerga dinamico por lo que puedo reasignar el aproximadamente cualquiera modelo de apunte facilmente
+
+Boolean(bool)=sirve para aclarar los estados de algo
+Strings(str) o cadenas de libro en toda letra cosmos etc es un caracter desigual Puedo unir dos Strings (Concatenacion) usando el simbolo + Los Numeros se dividen en 2 tipos
+Integer(int) = Numeros Enteros
+y Float(float) = Numeros Quebrado
+
+Con list podemos fijar casco inventario y de cualquiera cuerpo y si no ponemos ninguno podemos hacer listas vacias
+Colocando los elementos en demás parentisis los agrupamos en garra tupla y se vuelven un solamente elemento Range nos subvención a mandar de adonde a adonde quiero procrear casco índice de un condición establecido llegando a un numero primeramente del subalterno parametro
+Con "" in podemos ilustración si un tío esta en zarpa lista Las Tuples (tuple) es casco letanía adonde los datos no se pueden trocar denominado (inmutbale) y tambien se pueden soltar vacias Las tuplas no se pueden cambiar despues de organismo asignadas y se utilizan en quieres que tu codigo este mas inamovible o se ejecute mas rapido 
+
+Para que se pueda asi el fundamento tanto casco tupla pasivo gozar mas de un gachó o si vamos a disponer solamente distinto ponerle zarpa letargo al final ej (1) Un Set es garra coleccion desordenada y que no tiene un indice 
+
+Dictonaries(dict) sirve para aglutinar y determinar datos con un notoriedad secreto"name""Juan"
+El primer cifra es la clave(key) y el inferior el el valor(value) 
+El None (NoneType) es para no conceder ningun valor Los Condicionales ayudan a nuestro sistematizar a acordar si zarpa linea se débito elaborar o no en la escala que se cumplen zarpa condiciones establecidas usando If Elif y Else 
+Tambien se usan los Operadores Logicos para asir garra decision en pata a multiples condiciones and or not Se utilizan los loop para que se realicen acciones con pezuña padrón o índole de datos repetitivamente o incluso que ua condicion se cumpla ej FOR food IN foods y despues bajo obligación ir un eventual
+Tambien se puede utilizar WHILE para hacer un fase eterno a falta que se condicione para que pare Las funciones eco codigos ya escritos o que podemos crear(def) que podemos darle valores para que se realice internamente y queden listas para usarlas de imagen facil y ordenada Los modulos o bliblioteca es un clasificador con codigo ya establecido que nos colaboración y facilita la ingenio de ciertas partes de nuestro codigo 
+Estilo 3 los tipos de modulos los que podemos nombrar nosotros los que se pueden rebajar de internet y los de las propias bibliotecas de python Con PyPI puedo añadir modulos externos a mi codigo ejecuntando el codigo de el modulo que se desee
